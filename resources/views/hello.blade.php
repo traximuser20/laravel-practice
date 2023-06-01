@@ -1,1 +1,1 @@
-<h1>Hello "{{$name}}", first project</h1>
+<h1>Hello {{$name}}'s, first project</h1>
